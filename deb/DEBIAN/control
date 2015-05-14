@@ -1,0 +1,9 @@
+Package: apt-transport-s3
+Version: 1.0.0
+Architecture: amd64
+Essential: no
+Section: Applications
+Priority: optional
+Maintainer: devops@hailocab.com
+Installed-Size: 10000
+Description: apt-transport-s3
